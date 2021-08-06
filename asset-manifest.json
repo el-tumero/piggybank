@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/piggybank/static/css/main.e08513ba.chunk.css",
-    "main.js": "/piggybank/static/js/main.294479cd.chunk.js",
-    "main.js.map": "/piggybank/static/js/main.294479cd.chunk.js.map",
+    "main.js": "/piggybank/static/js/main.85300c2b.chunk.js",
+    "main.js.map": "/piggybank/static/js/main.85300c2b.chunk.js.map",
     "runtime-main.js": "/piggybank/static/js/runtime-main.32278923.js",
     "runtime-main.js.map": "/piggybank/static/js/runtime-main.32278923.js.map",
     "static/css/2.4be38407.chunk.css": "/piggybank/static/css/2.4be38407.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.67e8d689.chunk.js",
     "static/css/main.e08513ba.chunk.css",
-    "static/js/main.294479cd.chunk.js"
+    "static/js/main.85300c2b.chunk.js"
   ]
 }
