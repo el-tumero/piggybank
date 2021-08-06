@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/piggybank/static/css/main.e08513ba.chunk.css",
+    "main.js": "/piggybank/static/js/main.294479cd.chunk.js",
+    "main.js.map": "/piggybank/static/js/main.294479cd.chunk.js.map",
+    "runtime-main.js": "/piggybank/static/js/runtime-main.32278923.js",
+    "runtime-main.js.map": "/piggybank/static/js/runtime-main.32278923.js.map",
+    "static/css/2.4be38407.chunk.css": "/piggybank/static/css/2.4be38407.chunk.css",
+    "static/js/2.67e8d689.chunk.js": "/piggybank/static/js/2.67e8d689.chunk.js",
+    "static/js/2.67e8d689.chunk.js.map": "/piggybank/static/js/2.67e8d689.chunk.js.map",
+    "static/js/3.27e0999c.chunk.js": "/piggybank/static/js/3.27e0999c.chunk.js",
+    "static/js/3.27e0999c.chunk.js.map": "/piggybank/static/js/3.27e0999c.chunk.js.map",
+    "index.html": "/piggybank/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/piggybank/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e08513ba.chunk.css.map": "/piggybank/static/css/main.e08513ba.chunk.css.map",
+    "static/js/2.67e8d689.chunk.js.LICENSE.txt": "/piggybank/static/js/2.67e8d689.chunk.js.LICENSE.txt",
+    "static/media/piggybank.3632a2f2.png": "/piggybank/static/media/piggybank.3632a2f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32278923.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.67e8d689.chunk.js",
+    "static/css/main.e08513ba.chunk.css",
+    "static/js/main.294479cd.chunk.js"
+  ]
+}
