@@ -76,6 +76,9 @@ class App extends Component{
       //console.log(balance)
       this.setState({pigBalance: balance})
     }
+    else {
+      window.alert('Token contract not deployed to detected network. Use BinanceSmartchainTestnet instead!')
+    }
 
     //Load piggybank contract
     
@@ -96,7 +99,7 @@ class App extends Component{
       }     
     }
     else {
-      window.alert('Token contract not deployed to detected network')
+      window.alert('Token contract not deployed to detected network. Use BinanceSmartchainTestnet instead!')
     }
 
   }

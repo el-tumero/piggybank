@@ -4,13 +4,14 @@ Project made to help you save some money using blockchain technology.
 
 ## To do:
 
--> nie mozna miec kilku oszczednosci na raz
+-> kilka oszczędności na raz
 
--> po kazdym oszczedzaniu trzeba wypłacać szmal
+-> wypłata oszczędności z kilku okresów za jednym razem
 
--> GAS niedługo bedzie tańszy wiec będzie lepiej
+-> loading screen
 
--> loading w frontendzie przy transakcjach
+-> wypłata tokenów i oszczędności w jednym podjeściu
 
--> dwie wypłaty w jednej funkcji tokeny + hajs
+# Info
+I don't have any right for any images placed in project. They will be replaced in near future with my own designs.
 

@@ -54,7 +54,7 @@ class Main extends Component{
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1>Blockchain Piggybank</h1>
-          <h5><small className="text-muted">{this.props.version} (alpha)</small></h5>
+          <h5><small className="text-muted">{this.props.version} (alpha, bscTestnet)</small></h5>
           <h3 className="divider">Your savings: {Web3.utils.fromWei(this.props.piggybankBalance, 'ether')} BNB</h3>
           <small>Tokens balance: {Web3.utils.fromWei(this.props.pigBalance, 'ether')} PIG</small>
           <Time date={this.props.date} />
