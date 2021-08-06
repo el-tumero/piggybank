@@ -12,6 +12,6 @@ Project made to help you save some money using blockchain technology.
 
 -> wypłata tokenów i oszczędności w jednym podjeściu
 
-# Info
+## Info
 I don't have any right for any images placed in project. They will be replaced in near future with my own designs.
 
